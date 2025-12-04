@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "PULSE",
+  "base_artist": "Kroi",
+  "createdAt": "2025-12-04T05:19:21.777545Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Find Me the Pulse of the Universe",
+      "artist": "Lætitia Sadier",
+      "has_synced": true,
+      "path": "select/01_Find_Me_the_Pulse_of_the_Universe_Lætitia_Sadier.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pulse (feat. Todd Rundgren)",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/02_Pulse_(feat._Todd_Rundgren)_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beat And The Pulse",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/03_Beat_And_The_Pulse_Austra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beat And The Pulse",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/04_Beat_And_The_Pulse_Austra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Refractions in the Plastic Pulse",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/05_Refractions_in_the_Plastic_Pulse_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Pulse (Live Version)",
+      "artist": "Digitalism",
+      "has_synced": false,
+      "path": "select/06_The_Pulse_(Live_Version)_Digitalism.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pulse",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/07_Pulse_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pulse of Life",
+      "artist": "The Gathering",
+      "has_synced": true,
+      "path": "select/08_Pulse_of_Life_The_Gathering.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pulse of the Maggots",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/09_Pulse_of_the_Maggots_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pulse of the Maggots",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/10_Pulse_of_the_Maggots_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pulse",
+      "artist": "Icon for Hire",
+      "has_synced": true,
+      "path": "select/11_Pulse_Icon_for_Hire.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pulse",
+      "artist": "Skylar Grey",
+      "has_synced": true,
+      "path": "select/12_Pulse_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Refractions in the Plastic Pulse",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/13_Refractions_in_the_Plastic_Pulse_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moving Away from the Pulse Beat",
+      "artist": "Buzzcocks",
+      "has_synced": true,
+      "path": "select/14_Moving_Away_from_the_Pulse_Beat_Buzzcocks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PULSE",
+      "artist": "Kroi",
+      "has_synced": false,
+      "path": "select/pl_01_PULSE_Kroi.txt"
+    }
+  ]
+}
